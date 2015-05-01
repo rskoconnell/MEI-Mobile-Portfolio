@@ -360,7 +360,7 @@ nav {
 }
 
 .bottomcaption {
-	position: absolute; bottom:0; width: 105%; height: 40px; background-color: rgba(0,0,0,0.5);
+	position: absolute; bottom:0; width: 100%; height: 40px; background-color: rgba(0,0,0,0.5);
 }
 
 #portfolio01 {
@@ -372,67 +372,67 @@ nav {
 #portfolio02 {
 	background-image: url("../images/002.jpg");
   	background-size: cover;
-  	background-position: bottom-center;
+  	background-position: center-center;
 }
 
 #portfolio03 {
 	background-image: url("../images/003.jpg");
   	background-size: cover;
-  	background-position: bottom-center;
+  	background-position: center-center;
 }
 
 #portfolio04 {
 	background-image: url("../images/004.jpg");
   	background-size: cover;
-  	background-position: bottom-center;
+  	background-position: center-center;
 }
 
 #portfolio05 {
 	background-image: url("../images/005.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio06 {
 	background-image: url("../images/006.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio07 {
 	background-image: url("../images/007.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio08 {
 	background-image: url("../images/008.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio09 {
 	background-image: url("../images/009.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio10 {
 	background-image: url("../images/010.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio11 {
 	background-image: url("../images/011.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: bottom-center;
 }
 
 #portfolio12 {
 	background-image: url("../images/012.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-center;
 }
 
 #portfolio13 {
@@ -444,7 +444,7 @@ nav {
 #portfolio14 {
 	background-image: url("../images/014.jpg");
   	background-size: cover;
-  	background-position: top-right;
+  	background-position: center-right;
 }
 
 #portfolio15 {
